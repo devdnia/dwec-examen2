@@ -1,0 +1,31 @@
+{
+  "receptes": [
+    {
+      "id": "1",
+      "autor": "Maria Pérez",
+      "email": "maria@example.com",
+      "titol": "Espaguetis a la Carbonara",
+      "descripcio": "Una deliciosa recepta italiana de pasta amb una salsa cremosa de formatge, ou i bacon.",
+      "ingredients": "Espaguetis, Bacon, Ous, Formatge parmesà, Pebre negre",
+      "instruccions": "Bullir els espaguetis segons les indicacions del paquet. Freir el bacon fins que estigui cruixent. Batre els ous i afegir-los a la paella amb el bacon, remenant ràpidament. Afegir els espaguetis cuits i barrejar bé. Esbandir el formatge parmesà sobre la pasta i afegir pebre negre al gust."
+    },
+    {
+      "id": "2",
+      "autor": "Joan Martínez",
+      "email": "joan@example.com",
+      "titol": "Amanida de Quinoa",
+      "descripcio": "Una amanida saludable i plena de colors amb quinoa, vegetals frescos i formatge feta.",
+      "ingredients": "Quinoa, Tomàquet, Cogombre, Olives, Formatge feta, Oli d'oliva, Vinagre balsàmic, Sal i pebre",
+      "instruccions": "Rentar la quinoa i bullir-la segons les indicacions del paquet. Tallar els tomàquets, el cogombre i les olives. En un bol gran, barrejar la quinoa amb els vegetals tallats i el formatge feta. Preparar una vinagreta amb oli d'oliva, vinagre balsàmic, sal i pebre, i afegir-la a l'amanida."
+    },
+    {
+      "id": "3",
+      "autor": "Carlos Gómez",
+      "email": "carlos@example.com",
+      "titol": "Filet de Salmó al Forn",
+      "descripcio": "Un plat saludable i deliciós amb filets de salmó al forn amb llimona i herbes fresques.",
+      "ingredients": "Filets de salmó, Llimona, All, Oliva, Sal i pebre, Herbes fresques (opcional)",
+      "instruccions": "Preescalfar el forn a 200 graus Celsius. Col·locar els filets de salmó en una safata per al forn. Exprimir sucs de llimona sobre els filets i afegir all picat, oli d'oliva, sal, pebre i herbes fresques si es desitja. Coure al forn durant uns 15-20 minuts fins que el salmó estigui fet."
+    }
+  ]
+}
